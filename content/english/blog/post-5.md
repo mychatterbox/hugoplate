@@ -12,9 +12,8 @@ tags:
 draft: false
 ---
 
-램이 여유롭지 않으면 자동으로 용량이 변하는 dynamic 방식이 가능한 ImDisk 램디스크가 더 편리하고 간편하지만 개인적인 이유로 OSFMount 로 변경했다.
-
 윈도우 시작 시 자동으로 램디스크를 생성하고 몇 개의 폴더를 자동으로 만드는 방법을 설명한다.
+
 
 1. OSFMount 설치
 
@@ -44,8 +43,8 @@ draft: false
 
 <hr>
 
-{{< image src="blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="\blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="\blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="\blog-images\post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
