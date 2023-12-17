@@ -1,7 +1,7 @@
 ---
 title: OSFMOUNT 램디스크 작업스케쥴러
-meta_title: ""
-description: this is meta description
+meta_title: osfmount 램디스크
+description: 윈도우 시작 시 자동으로 램디스크를 생성
 date: 2023-12-17T05:00:00Z
 categories:
     - 프로그램
@@ -10,6 +10,11 @@ tags:
     - OSFMount
     - 램디스크
 draft: false
+keywords:
+    - osfmount
+    - 램디스크
+    - ramdisk
+slug: osfmount-램디스크-작업스케쥴러
 ---
 
 윈도우 시작 시 자동으로 램디스크를 생성하고 몇 개의 폴더를 자동으로 만드는 방법을 설명한다.
@@ -44,7 +49,7 @@ draft: false
 <hr>
 
 {{< image src="blog-images/post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="blog-images/post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
-{{< image src="blog-images/post-5_1.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="blog-images/post-5_2.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
+{{< image src="blog-images/post-5_3.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
