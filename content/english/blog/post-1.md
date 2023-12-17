@@ -11,9 +11,10 @@ tags:
     - 심볼릭링크
 draft: false
 keywords:
-    - osfmount
-    - 램디스크
-    - ramdisk
+    - symbolic link
+    - 심볼릭링크
+    - 토탈커맨더
+    - symlink
 ---
 
 토탈커맨더에서 개인 명령어를 추가하고 메뉴에 등록해서 사용하려면 우선 토탈커맨더 폴더에 usercmd.ini 파일을 만들고 명령어들을 넣은 다음, 이 명령어를 이용해 아이콘과 연결해 사용하든, 시작 메뉴에 등록해야 한다.
