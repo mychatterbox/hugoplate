@@ -7,7 +7,7 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "테스트"
 url = "about/"
 weight = 2
 
@@ -25,11 +25,6 @@ hasChildren = true
 parent = "Pages"
 name = "Blog"
 url = "blog/"
-
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
 
 [[main]]
 parent = "Pages"
