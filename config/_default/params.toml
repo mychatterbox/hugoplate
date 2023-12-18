@@ -96,7 +96,9 @@ map_marker = "images/marker.png"
 [comments]
 enabled = true
 provider = "remark42"
-
+    remark42SiteID = "mychatterboxxx.netlify.app"
+    remark42Url = "http://remark42..mychatterboxxx.netlify.app"
+    
 [comments.remark42]
 host = "https://remark42.mychatterboxxx.netlify.app"
 site = "mychatterboxxx.netlify.app"
