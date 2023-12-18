@@ -57,3 +57,5 @@ keywords:
 {{< image src="blog-images/post-5_3.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="image title"  webp="false" >}}
 
 <hr>
+
+<div id="remark42"></div>

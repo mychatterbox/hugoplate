@@ -137,3 +137,18 @@
   {{ end }}
   <!-- /Testimonials -->
 {{ end }}
+<script>
+  var remark_config = {
+    site_id: 'YOUR_SITE_ID',
+    url: 'PAGE_URL', // optional param; if it isn't defined window.location.href will be used
+    max_shown_comments: 10, // optional param; if it isn't defined default value (15) will be used
+    theme: 'dark', // optional param; if it isn't defined default value ('light') will be used
+    page_title: 'Moving to Remark42' // optional param; if it isn't defined `document.title` will be used
+  };
+
+  (function() {
+    var d = document, s = d.createElement('script');
+    s.src = '/web/embed.js'; // prepends this address with domain where remark42 is placed
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
