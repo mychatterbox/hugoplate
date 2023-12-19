@@ -2,53 +2,61 @@
 
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "Blog"
+url = "blog/"
 weight = 1
 
 [[main]]
-name = "테스트"
-url = "about/"
+name = "Home"
+url = "blog/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
-weight = 3
-
-[[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
 name = "Categories"
 url = "categories/"
+weight = 3
+
+
+# [[main]]
+# name = "Elements"
+#  url = "elements/"
+# weight = 3
+
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
+name = "문의"
+url = "about/"
+weight = 4
+
+# 
+# [[main]]
+# weight = 5
+# name = "Pages"
+# hasChildren = true
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
 
 
 # footer menu
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
+# [[footer]]
+# name = "문의"
+# url = "about/"
+# weight = 1
 
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
+# [[footer]]
+# name = "Elements"
+# url = "elements/"
+# weight = 2
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 3
+# [[footer]]
+# name = "Privacy Policy"
+# url = "privacy-policy/"
+# weight = 3
