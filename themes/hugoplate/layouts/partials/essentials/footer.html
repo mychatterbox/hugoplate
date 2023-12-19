@@ -1,23 +1,4 @@
 <footer class="bg-theme-light dark:bg-darkmode-theme-light">
-{{ if (and .Site.Params.remark42SiteID .Params.comments) }}
-<script>
-  var remark_config = {
-    host: {{ .Site.Params.remark42Url }},
-    site_id: {{ .Site.Params.remark42SiteID }},
-    url: {{ .Permalink }},
-    locale: { .Site.Language.Lang }
-  };
-
-  (function(c) {
-    for(var i = 0; i < c.length; i++){
-      var d = document, s = d.createElement('script');
-      s.src = remark_config.host + '/web/' + c[i] +'.js';
-      s.defer = true;
-      (d.head || d.body).appendChild(s);
-    }
-  })(remark_config.components || ['embed']);
-</script>
-{{ end }}
   <div class="container">
     <div class="row items-center py-10">
       <div class="lg:col-3 mb-8 text-center lg:mb-0 lg:text-left">
