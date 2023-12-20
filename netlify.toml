@@ -11,3 +11,4 @@ GO_VERSION = "1.20.5"
 from = "/"
 to = "/blog"
 status = 301
+force = true
