@@ -5,3 +5,9 @@ command = "yarn project-setup; yarn build"
 [build.environment]
 HUGO_VERSION = "0.118.2"
 GO_VERSION = "1.20.5"
+
+# Redirect with a 301
+[[redirects]]
+from = "/blog"
+to = "/"
+status = 301
