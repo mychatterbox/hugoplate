@@ -4,7 +4,7 @@ meta_title: n100 미니pc pd충전기
 description: pd충전기로 N100 등 미니pc 사용하기
 date: 2023-12-24T14:25:25.529Z
 categories:
-  - 프로그램
+  - 이런 것도 팁?
 author: mychatterbox
 tags:
   - 미니pc
